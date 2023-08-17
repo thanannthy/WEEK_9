@@ -1,0 +1,29 @@
+
+/* Style for primary alerts */
+.alert-primary {
+    background-color: #eee29d;
+    color: #550000;
+    border-color: #007bff;
+}
+
+/* Style for primary buttons */
+.btn-primary {
+    background-color: #000000;
+    border-color: #00ffff;
+    color: #fff;
+}
+
+/* Style for link button */
+.btn-link {
+    color: #007bff;
+    text-decoration: underline;
+    background-color: bisque;
+}
+
+/* Style for Background color*/
+body {
+    background-color:rgb(140, 240, 178)
+}
+
+/* Style for NavBar*/
+
